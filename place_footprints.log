@@ -1,0 +1,16 @@
+06-13 12:38:09 place_footprints.action_place_footprints 414:Plugin executed on: 'darwin'
+06-13 12:38:09 place_footprints.action_place_footprints 415:Plugin executed with python version: '2.7.16 (default, Dec 23 2020, 16:11:24) \n[GCC 4.2.1 Compatible Apple LLVM 10.0.1 (clang-1001.0.46.4)]'
+06-13 12:38:09 place_footprints.action_place_footprints 416:KiCad build version: (5.1.9-0-10_14)
+06-13 12:38:09 place_footprints.action_place_footprints 417:Place footprints plugin version: 54 started
+06-13 12:38:10 place_footprints.place_footprints 213:getting project hierarchy from schematics
+06-13 12:38:10 place_footprints.place_footprints 228:getting a list of all footprints on board
+06-13 12:38:10 place_footprints.action_place_footprints 472:Reference designator is: D2_
+06-13 12:38:10 place_footprints.action_place_footprints 473:Rerefence number is: 1
+06-13 12:38:10 place_footprints.action_place_footprints 504:Sorted and filtered list:
+[u'D2_1', u'D2_2', u'D2_3', u'D2_4', u'D2_5', u'D2_6', u'D2_7', u'D2_8', u'D2_9', u'D2_10', u'D2_11', u'D2_12', u'D2_13', u'D2_14', u'D2_15', u'D2_16', u'D2_17', u'D2_18', u'D2_19', u'D2_20', u'D2_21']
+06-13 12:38:17 place_footprints.action_place_footprints 535:Modules to place:
+[u'D2_1', u'D2_2', u'D2_3', u'D2_4', u'D2_5', u'D2_6', u'D2_7', u'D2_8', u'D2_9', u'D2_10', u'D2_11', u'D2_12', u'D2_13', u'D2_14', u'D2_15', u'D2_16', u'D2_17', u'D2_18', u'D2_19', u'D2_20', u'D2_21']
+06-13 12:38:17 place_footprints.place_footprints 350:Starting placing with circular layout
+06-13 12:38:17 place_footprints.place_footprints 360:reference module position at: wxPoint(90000000, 50000000)
+06-13 12:38:17 place_footprints.place_footprints 365:rotation center at: (90000000, 85000000.0)
+06-13 12:38:17 place_footprints.action_place_footprints 545:Placing complete
